@@ -35,7 +35,7 @@ if will_rain:
     message = client.messages.create(
         body="O sa fie ploaie, vezi cum te imbraci",
         from_="+12058093489",
-        to="+37369467775",
+        to="",
     )
 
     print(message.status)
