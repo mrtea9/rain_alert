@@ -6,7 +6,7 @@ MY_LAT = 47.0056
 MY_LONG = 28.8575
 api_key = ""
 OWM_url = "http://api.openweathermap.org/data/2.5/forecast"
-account_sid = "AC4a180f059febe490c20d7ae861822b0b"
+account_sid = ""
 auth_token = ""
 
 
